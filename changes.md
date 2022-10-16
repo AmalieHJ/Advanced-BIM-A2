@@ -1,5 +1,5 @@
-# Advanced-BIM-A2
-## Group 16
+# 41934 Advanced BIM, Assignment 2
+## Group 16: Isabella Vad (s183616) and Amalie Hartvig Jensen (s183619)
 
 **Process of Assignment 2**
 First the zip-file was forked from Tim's github account. 
@@ -21,7 +21,7 @@ In the javascript file _html-build_ we added 2 element:
 **Results**
 We managed to get the correct output of windows per level in the HTMLBuild python code, but didn't manage to get the correct output displayed for all levels in the index.html file due to lack of correct code in the java script (html-buil.js).
 Notice that only the number of windows on Level 1 are displayed in the viewport when clicking on a floor in the index.html file.
-This is subject for future work e.g. using a more iterative approach in the *window_count* fuction. 
+This is subject for future work e.g. using a less hardcoded approach for count of windows in the *classifyWindows* function. 
 
 **License**
 The license *GNU General Public License v3.0* was chosen for the script and applied to the github code. 
