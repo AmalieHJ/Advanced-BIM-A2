@@ -14,7 +14,7 @@ In regards to our chosen use case on the theme of LCA, the target was simply to 
 
 We managed to get the correct output of windows per level in the HTMLBuild python code, but didn't manage to get the correct output displayed for all levels in the index.html file due to lack of correct code in the java script (html-buil.js).
 Notice that only the number of windows on Level 1 are displayed in the viewport when clicking on a floor in the index.html file.
-This is subject for future work e.g. using a more iterative approach in the *window_count* fuction. 
+This is subject for future work e.g. using a more iterative approach for the count of windows in the *classifyWindows* fuction. 
 
 **License**
 
