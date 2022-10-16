@@ -18,4 +18,4 @@ This is subject for future work e.g. using a more iterative approach in the *win
 The license *GNU General Public License v3.0* was chosen for the script and applied to the github code. 
 
 **Link to Github:**
-
+https://github.com/AmalieHJ/Advanced-BIM-A2.git
